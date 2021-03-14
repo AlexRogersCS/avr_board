@@ -4,9 +4,6 @@ I like to explore different instruction sets during my Computer Architecture cou
 
 The board uses an 8-bit Atmel AT90USB162 processor since it requires minimal external components, comes with a factory programmed USB bootloader so no additional programmer is required, and can implement USB devices such as single key keyboards and mice.
 
-
-This repository contains Gerber files and BOM are available on github along with a couple of simple code examples that use AVR-GCC and Gerd’s AVR assembler (gavrasm).
-
 This repository contains the Eagle CAD, Gerber and placement files, along with the BOM and a couple of simple code examples that use AVR-GCC and Gerd’s AVR assembler ([gavrasm](http://www.avr-asm-tutorial.net/gavrasm/index_en.html)).
 
 ## Development Tools
