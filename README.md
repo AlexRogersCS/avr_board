@@ -7,7 +7,7 @@ The board uses an 8-bit Atmel AT90USB162 processor since it requires minimal ext
 
 This repository contains Gerber files and BOM are available on github along with a couple of simple code examples that use AVR-GCC and Gerd’s AVR assembler (gavrasm).
 
-This repository contains the Eagle CAD, Gerber and placement files, along with the BOM and a couple of simple code examples that use AVR-GCC and Gerd’s AVR assembler ([gavrasm](http://www.avr-asm-tutorial.net/gavrasm/index_en.html).
+This repository contains the Eagle CAD, Gerber and placement files, along with the BOM and a couple of simple code examples that use AVR-GCC and Gerd’s AVR assembler ([gavrasm](http://www.avr-asm-tutorial.net/gavrasm/index_en.html)).
 
 ## Development Tools
 
