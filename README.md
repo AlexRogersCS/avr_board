@@ -26,6 +26,4 @@ On Fedora 32
 > sudo dnf install avr-gcc avr-binutils avr-libc
 ```
 
-### Gerd’s AVR Assembler
-
 Gerd’s AVR assembler is a simple assembler that generate hex files directly. It supports many AVR processors, including the AT90USB162, without requiring any additional configuration files. It can be installed from [here](http://www.avr-asm-tutorial.net/gavrasm/index_en.html).
