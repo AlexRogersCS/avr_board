@@ -2,6 +2,8 @@
 
 I like to explore different instruction sets during my Computer Architecture course - typically x86-64, ARMv7, ARMv8 and AVR. For the latter, I thought it would be fun to have a small cheap development board that the students could experiment with, so I designed one.
 
+<img alt="AVR Development Board" src="./avr_board.png" width="720">
+
 The board uses an 8-bit Atmel AT90USB162 processor since it requires minimal external components, comes with a factory programmed USB bootloader so no additional programmer is required, and can implement USB devices such as single key keyboards and mice.
 
 This repository contains the Eagle CAD, Gerber and placement files, along with the BOM and a couple of simple code examples that use AVR-GCC and Gerd’s AVR assembler ([gavrasm](http://www.avr-asm-tutorial.net/gavrasm/index_en.html)).
