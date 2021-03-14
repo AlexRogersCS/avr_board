@@ -13,21 +13,21 @@ This repository contains the Eagle CAD, Gerber and placement files, along with t
 
 The AVR-GCC developnment tools and the programmer can be installed as below:
 
-### On Ubuntu 20.04 LTS
+On Ubuntu 20.04 LTS
 
-'''
+```
 > sudo apt-get install libusb
 > sudo apt-get install dfu-programmer
 > sudo apt-get install gcc-avr binutils-avr avr-libc
-'''
+```
 
-### On Fedora 32
+On Fedora 32
 
-'''
+```
 > sudo dnf install libusb
 > sudo dnf install dfu-programmer
 > sudo dnf install avr-gcc avr-binutils avr-libc
-'''
+```
 
 ### Gerd’s AVR Assembler
 
